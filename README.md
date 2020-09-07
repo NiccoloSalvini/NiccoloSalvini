@@ -3,11 +3,6 @@
 <!--
 **NiccoloSalvini/NiccoloSalvini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://sourcerer.io/niccolosalvini"><img src="https://img.shields.io/badge/R-141%20commits-orange.svg" alt=""></a>
-
-<a href="https://sourcerer.io/niccolosalvini"><img src="https://avatars0.githubusercontent.com/u/47143429?v=4" height="50px" width="50px" alt=""/></a>
-
-<a href="https://sourcerer.io/niccolosalvini"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 
 Here are some ideas to get you started:
 
@@ -20,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://sourcerer.io/niccolosalvini"><img src="https://avatars0.githubusercontent.com/u/47143429?v=4" height="50px" width="50px" alt=""/></a>   <a href="https://sourcerer.io/niccolosalvini"><img src="https://img.shields.io/badge/R-141%20commits-orange.svg" alt=""></a>   
