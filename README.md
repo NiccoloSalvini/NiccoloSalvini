@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 
 <a href="https://sourcerer.io/niccolosalvini"><img src="https://avatars0.githubusercontent.com/u/47143429?v=4" height="50px" width="50px" alt=""/></a>   <a href="https://sourcerer.io/niccolosalvini"><img src="https://img.shields.io/badge/R-141%20commits-orange.svg" alt=""></a>   
 
-
-
-![immagine]("https://www.goticomania.it/wp-content/uploads/2017/01/facciata-s-maria-fiore-firenze-860x450.jpg")
