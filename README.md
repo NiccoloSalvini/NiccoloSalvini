@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-![immagine](https://www.goticomania.it/wp-content/uploads/2017/01/facciata-s-maria-fiore-firenze-860x450.jpg)
+![immagine]("https://www.goticomania.it/wp-content/uploads/2017/01/facciata-s-maria-fiore-firenze-860x450.jpg")
