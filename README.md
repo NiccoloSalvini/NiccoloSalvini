@@ -1,12 +1,3 @@
-### Hi there 👋
-
-<!--
-**NiccoloSalvini/NiccoloSalvini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<a href="https://sourcerer.io/niccolosalvini"><img src="https://avatars0.githubusercontent.com/u/47143429?v=4" height="50px" width="50px" alt=""/></a>   <a href="https://sourcerer.io/niccolosalvini"><img src="https://img.shields.io/badge/R-141%20commits-orange.svg" alt=""></a>   
-
-
 <h1 align="center">Hi 👋, I'm Niccolò Salvini</h1>
 <h3 align="center">Data Scientist from Florence</h3>
 
