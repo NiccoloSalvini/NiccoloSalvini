@@ -5,7 +5,7 @@
 
 - ⛏️ I am currently freelancing, woking on Machine Learning and Scraping API 
 
-- 🔭 I have already finishe working on [my thesis](https://niccolosalvini.github.io/thesis/), check it out 
+- 🔭 I have already finished working on [my thesis](https://niccolosalvini.github.io/thesis/), check it out 
 
 - 🌱 I’m currently learning **front-end development**
 
