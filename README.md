@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **front-end development**
 
-- 👯 I have just finished working on [my thesis](https://github.com/NiccoloSalvini/thesis/edit/master/index.Rmd)
+- 👯 I have just finished working on [my thesis](https://niccolosalvini.github.io/thesis/)
 
 - 📝 I occasionally write articles on my blog [https://niccolosalvini.netlify.app/](https://niccolosalvini.netlify.app/)
 
