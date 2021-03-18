@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently freelancing **specializing on Machine Learning Pipelines and Models API & web scraping API**
 
-- 🌱 I’m currently learning **front-end development  React.js**
-
+- 🌱 I’m currently further exploring **back-end development** with *Spark* *Hadoop* *Kubernetes* and *Airflow*
+ a
 - 👯 I have just finished working on [my thesis](https://niccolosalvini.github.io/thesis/)
 
 - 📝 I occasionally write articles on my blog [https://niccolosalvini.netlify.app/](https://niccolosalvini.netlify.app/)
