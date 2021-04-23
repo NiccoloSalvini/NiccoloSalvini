@@ -9,7 +9,7 @@
  a
 - 👯 I have just finished working on [my thesis](https://niccolosalvini.github.io/thesis/)
 
-- 📝 I occasionally write articles on my blog [https://niccolosalvini.netlify.app/](https://niccolosalvini.netlify.app/)
+- 📝 I occasionally write articles on my blog [https://niccolosalvini.netlify.app/](https://niccolosalvini.netlify.app/) **NOT MAINT** :no_entry_sign:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
