@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niccolosalvini&label=Profile%20views&color=0e75b6&style=flat" alt="niccolosalvini" /> </p>
 
-- 🔭 I’m currently freelancing **specializing on Machine Learning Pipelines and Models API & web scraping API**
+- 🔭 I’m currently freelancing **specializing on Machine Learning and Data Engineering pipelines** 
 
-- 🌱 I’m currently further exploring **back-end development** with *Spark* *Hadoop* *Kubernetes* and *Airflow*
- a
-- 👯 I have just finished working on [my thesis](https://niccolosalvini.github.io/thesis/)
+- 🌟 I'm an intermediate **R Shiny developer**, exploting HTML, CSS and Javascript to deliver (Golem framework) scalable, secure, and modern UI/UX apps (custom events, widgets)
 
-- 📝 I occasionally write articles on my blog [https://niccolosalvini.netlify.app/](https://niccolosalvini.netlify.app/) **NOT MAINT** :no_entry_sign:
+- 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping data** and I have built some API's around it (Selenium, rvest, beautifulsoup) and a custom made scraping workflow.
+
+- 🌱 I’m currently also focusing on **Visualization** with ggplot2, and I really find myself enjoyng non-programing design and charting tools such as **Figma**, **DataWrapper**, **Flourish** & **Tableau**.
+
+- 👯 I have just finished working on my [Real Estate (bayesian) spatial statistics thesis](https://niccolosalvini.github.io/thesis/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
