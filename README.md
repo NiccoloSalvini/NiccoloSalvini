@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently freelancing **specializing on Machine Learning and Data Engineering pipelines** 
 
-- 🌟 I'm an intermediate **R Shiny developer**, exploting HTML, CSS and Javascript to deliver (Golem framework) scalable, secure, and modern UI/UX apps (custom events, widgets)
+- 🌟 I'm an intermediate **R Shiny developer**, exploting HTML, CSS and Javascript to deliver (Golem framework) scalable, secure, and modern UI/UX apps (custom events, widgets). My stack of libraries of choice is {charpente} {shiny} {renv} {shiny.semantic} {shiny.dashboard}
 
-- 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping data** and I have built some API's around it (Selenium, rvest, beautifulsoup) and a custom made scraping workflow.
+- 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping/harvesting data** and I have built some API's around it and a really cool custom made scraping workflow. I mainly use  [RSelenium (Selenium wrapper in R), {rvest}, beautifulsoup in Python]
 
-- 🌱 I’m currently also focusing on **Visualization** with ggplot2, and I really find myself enjoyng non-programing design and charting tools such as **Figma**, **DataWrapper**, **Flourish** & **Tableau**.
+- 🌱 I’m currently also focusing on **Visualization & Design** with ggplot2, and I really find myself enjoyng non-programming design and charting tools such as **Figma**, **Anima**, **DataWrapper**, **Flourish** & **Tableau**.
 
-- 👯 I have just finished working on my [Real Estate (bayesian) spatial statistics thesis](https://niccolosalvini.github.io/thesis/)
+- 👯 I have just finished working on my [Real Estate (bayesian) spatial statistics thesis](https://niccolosalvini.github.io/thesis/) consisting on a spatial model to analyse Milan real estate rental data (from which I design a scheduled extraction automation mechainism)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
