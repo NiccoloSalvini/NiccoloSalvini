@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently freelancing **specializing on delivering custom dasboards exploiting Machine Learning and Data Engineering pipelines** 
 
-- 🌟 I'm an intermediate **R Shiny developer**, exploting HTML, CSS and Javascript to deliver (Golem framework) scalable, secure, and modern UI/UX apps (custom events, widgets). My stack of libraries of choice is {charpente} {shiny} {renv} {shiny.semantic} {shiny.dashboard}
+- 🌟 I'm an intermediate **R Shiny developer**, extending the framework with HTML, CSS and Javascript. My workflow involves: Golem scalable, secure, and modern UI/UX apps (custom events, widgets). My stack of libraries of choice is {charpente} {shiny} {renv} {shiny.semantic} {shiny.dashboard}
 
 - 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping/harvesting data** and I have built some API's around it and a really cool custom made scraping workflow. I mainly use  [RSelenium (Selenium wrapper in R), {rvest}, beautifulsoup in Python]
 
