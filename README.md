@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niccolosalvini&label=Profile%20views&color=0e75b6&style=flat" alt="niccolosalvini" /> </p>
 
-- 🔭 I’m currently freelancing **specializeding on custom dasboards exploiting Machine Learning and Data Engineering pipelines** 
+- 🔭 I’m currently freelancing **specialize on custom dasboards exploiting Machine Learning and Data Engineering pipelines** 
 
 - 🌟 I'm an intermediate **R Shiny developer**, extending the framework with HTML, CSS and Javascript. My workflow involves: Golem scalable, secure, and modern UI/UX apps (custom events, widgets). My stack of libraries of choice is {charpente} {shiny} {renv} {shiny.semantic} {shiny.dashboard}
 
