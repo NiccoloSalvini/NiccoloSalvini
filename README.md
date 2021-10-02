@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niccolosalvini&label=Profile%20views&color=0e75b6&style=flat" alt="niccolosalvini" /> </p>
 
-- 🔭 I’m currently freelancing **specialize on custom dasboards exploiting Machine Learning and Data Engineering pipelines** 
+- 🔭 I’m currently taking a PhD in Healthcare Data Science & freelancing. My main focus is **Machine Learning APIs and Data pipelines** 
 
-- 🌟 I'm an intermediate **R Shiny developer**, mastering HTML, CSS and Javascript for highly customizable (custom events, widgets), scalable and secure web-apps/dashboards. My workflow involves: {Golem}, {Charpente}, {shiny.semantic}, {shiny.fluent}. I take care of the whole process from design to deployment.
+- 🌟 I'm an intermediate **R Shiny developer**, mastering HTML, CSS and Javascript for highly customizable (custom events, widgets), scalable and secure web-apps/dashboards. My workflow in Shiny involves: {Golem}, {Charpente}, {shiny.semantic}, {shiny.fluent}. I take care of the whole process from design to deployment to tests.
  
-- 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping/harvesting data** and I have built some API's around it and a really cool custom made scraping workflow. I mainly use  [RSelenium (Selenium wrapper in R), {rvest}, beautifulsoup in Python]
+- 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping/mining data** and I have built some cool API's to serve models or applications. I mainly use  [RSelenium (Selenium wrapper in R), {rvest}, beautifulsoup4 in Python]
 
-- 🌱 I’m currently also focusing on **Visualization & Design** with ggplot2, and I really find myself enjoyng non-programming design and charting tools such as **Figma**, **Anima**, **DataWrapper**, **Flourish** & **Tableau**.
+- 🌱 I’m currently also focusing on **Visualization & Design** with {ggplot2}, and ultimately I really find myself enjoying non-programming design and charting tools such as **Figma**, **DataWrapper**, **Flourish** & **Tableau**.
 
 - 👯 I have just finished working on my [Real Estate (bayesian) spatial statistics thesis](https://niccolosalvini.github.io/thesis/) consisting on a spatial model to analyse Milan real estate rental data (from which I design a scheduled extraction automation mechainism)
 
