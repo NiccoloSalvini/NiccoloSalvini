@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently taking a PhD in Healthcare Systems Data Science & freelancing. My main focus is **robust and scalable Machine Learning and Data pipelines** 
 
-- 🌟 I'm an intermediate **R Shiny developer**, mastering HTML, CSS and Javascript for highly customizable (custom events, widgets), scalable and secure web-apps/dashboards. My workflow in Shiny involves: {Golem}, {Charpente}, {shiny.semantic}, {shiny.fluent}. I take care of the whole process from design to deployment to tests.
+- 🌟 I'm an intermediate **R Shiny developer**, mastering HTML, CSS and Javascript for highly customizable (custom events, widgets), scalable and secure web-apps/dashboards. My workflow with Shiny involves: {Golem}, {Charpente}, {shiny.semantic}, {shiny.fluent}. I take care of the whole process from design to deployment to tests.
  
 - 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping/mining data** and I have built some cool API's to serve models or applications. I mainly use  [RSelenium (Selenium wrapper in R), {rvest}, beautifulsoup4 in Python]
 
