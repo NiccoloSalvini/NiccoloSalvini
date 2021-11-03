@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niccolosalvini&label=Profile%20views&color=0e75b6&style=flat" alt="niccolosalvini" /> </p>
 
-- 🔭 I’m currently taking a PhD in Healthcare Data Science & freelancing. My main focus is **Machine Learning APIs and Data pipelines** 
+- 🔭 I’m currently taking a PhD in Healthcare Systems Data Science & freelancing. My main focus is **Machine Learning APIs and Data pipelines** 
 
 - 🌟 I'm an intermediate **R Shiny developer**, mastering HTML, CSS and Javascript for highly customizable (custom events, widgets), scalable and secure web-apps/dashboards. My workflow in Shiny involves: {Golem}, {Charpente}, {shiny.semantic}, {shiny.fluent}. I take care of the whole process from design to deployment to tests.
  
