@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niccolò</h1>
-<h3 align="center">PhD stud in DS appliend ti healthcare and Spatial Statistics enthusiast</h3>
+<h3 align="center">PhD stud in DS applied to healthcare and Spatial Statistics enthusiast</h3>
 
 - 🔭 I’m currently taking a PhD in Healthcare Systems Data Science & freelancing. My main focus is **robust and scalable Machine Learning and Data pipelines** 
 
