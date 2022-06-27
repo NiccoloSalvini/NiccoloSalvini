@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niccolò</h1>
 <h3 align="center">PhD stud in DS applied to healthcare and Spatial Statistics enthusiast</h3>
 
-- 🔭 I’m currently taking a PhD in Healthcare Systems Data Science & freelancing. My main focus is **robust and scalable Machine Learning and Data pipelines** 
+- 🔭 I’m currently taking a PhD in Healthcare Systems Data Science & freelancing. My research is focused on **robust and scalable Machine Learning and Helath services Data pipelines and accessibility** 
 
 - 🌟 I'm an intermediate **R Shiny developer**, mastering HTML, CSS and Javascript for highly customizable (custom events, widgets), scalable and secure web-apps/dashboards. My workflow with Shiny involves: {Golem}, {Charpente}, {shiny.semantic}, {shiny.fluent}. I take care of the whole process from design to deployment to tests.
  
