@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niccolò</h1>
-<h3 align="center">PhD stud in DS applied to healthcare and Spatial Statistics enthusiast</h3>
+<h3 align="center">PhD stud in DS applied to healthcare & Freelancer</h3>
 
-- 🔭 I’m currently taking a PhD in Healthcare Systems Data Science & freelancing. My research is focused on **robust and scalable Machine Learning and Helath services Data pipelines and accessibility** 
-
-- 🌟 I'm an intermediate **R Shiny developer**, mastering HTML, CSS and Javascript for highly customizable (custom events, widgets), scalable and secure web-apps/dashboards. My workflow with Shiny involves: {Golem}, {Charpente}, {shiny.semantic}, {shiny.fluent}. I take care of the whole process from design to deployment to tests.
- 
-- 👐 I'm a **Open Source and Open Data enthusiast**. I really like **web scraping/mining data** and I have built some cool API's to serve models or applications. I mainly use  [RSelenium (Selenium wrapper in R), {rvest}, beautifulsoup4 in Python]
+                                                                         .-.
+                                            (___________________________()6 `-,
+                                            (   ______________________   /''"`
+                                            //\\                      //\\
+                                            "" ""                     "" ""
 
 <h3 align="left"> 🔨 Languages and technologies:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
